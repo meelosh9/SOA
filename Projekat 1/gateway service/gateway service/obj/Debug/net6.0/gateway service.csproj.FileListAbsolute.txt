@@ -1,0 +1,29 @@
+C:\Users\Ekonomski\Documents\GitHub\SOA\Projekat 1\gateway service\gateway service\gateway service\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ekonomski\Documents\GitHub\SOA\Projekat 1\gateway service\gateway service\gateway service\bin\Debug\net6.0\appsettings.json
+C:\Users\Ekonomski\Documents\GitHub\SOA\Projekat 1\gateway service\gateway service\gateway service\bin\Debug\net6.0\gateway service.exe
+C:\Users\Ekonomski\Documents\GitHub\SOA\Projekat 1\gateway service\gateway service\gateway service\bin\Debug\net6.0\gateway service.deps.json
+C:\Users\Ekonomski\Documents\GitHub\SOA\Projekat 1\gateway service\gateway service\gateway service\bin\Debug\net6.0\gateway service.runtimeconfig.json
+C:\Users\Ekonomski\Documents\GitHub\SOA\Projekat 1\gateway service\gateway service\gateway service\bin\Debug\net6.0\gateway service.dll
+C:\Users\Ekonomski\Documents\GitHub\SOA\Projekat 1\gateway service\gateway service\gateway service\bin\Debug\net6.0\gateway service.pdb
+C:\Users\Ekonomski\Documents\GitHub\SOA\Projekat 1\gateway service\gateway service\gateway service\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Ekonomski\Documents\GitHub\SOA\Projekat 1\gateway service\gateway service\gateway service\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ekonomski\Documents\GitHub\SOA\Projekat 1\gateway service\gateway service\gateway service\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ekonomski\Documents\GitHub\SOA\Projekat 1\gateway service\gateway service\gateway service\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ekonomski\Documents\GitHub\SOA\Projekat 1\gateway service\gateway service\gateway service\obj\Debug\net6.0\gateway service.csproj.AssemblyReference.cache
+C:\Users\Ekonomski\Documents\GitHub\SOA\Projekat 1\gateway service\gateway service\gateway service\obj\Debug\net6.0\gateway service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ekonomski\Documents\GitHub\SOA\Projekat 1\gateway service\gateway service\gateway service\obj\Debug\net6.0\gateway service.AssemblyInfoInputs.cache
+C:\Users\Ekonomski\Documents\GitHub\SOA\Projekat 1\gateway service\gateway service\gateway service\obj\Debug\net6.0\gateway service.AssemblyInfo.cs
+C:\Users\Ekonomski\Documents\GitHub\SOA\Projekat 1\gateway service\gateway service\gateway service\obj\Debug\net6.0\gateway service.csproj.CoreCompileInputs.cache
+C:\Users\Ekonomski\Documents\GitHub\SOA\Projekat 1\gateway service\gateway service\gateway service\obj\Debug\net6.0\gateway service.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ekonomski\Documents\GitHub\SOA\Projekat 1\gateway service\gateway service\gateway service\obj\Debug\net6.0\gateway service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ekonomski\Documents\GitHub\SOA\Projekat 1\gateway service\gateway service\gateway service\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ekonomski\Documents\GitHub\SOA\Projekat 1\gateway service\gateway service\gateway service\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ekonomski\Documents\GitHub\SOA\Projekat 1\gateway service\gateway service\gateway service\obj\Debug\net6.0\scopedcss\bundle\gateway service.styles.css
+C:\Users\Ekonomski\Documents\GitHub\SOA\Projekat 1\gateway service\gateway service\gateway service\obj\Debug\net6.0\gateway service.csproj.CopyComplete
+C:\Users\Ekonomski\Documents\GitHub\SOA\Projekat 1\gateway service\gateway service\gateway service\obj\Debug\net6.0\gateway service.dll
+C:\Users\Ekonomski\Documents\GitHub\SOA\Projekat 1\gateway service\gateway service\gateway service\obj\Debug\net6.0\refint\gateway service.dll
+C:\Users\Ekonomski\Documents\GitHub\SOA\Projekat 1\gateway service\gateway service\gateway service\obj\Debug\net6.0\gateway service.pdb
+C:\Users\Ekonomski\Documents\GitHub\SOA\Projekat 1\gateway service\gateway service\gateway service\obj\Debug\net6.0\gateway service.genruntimeconfig.cache
+C:\Users\Ekonomski\Documents\GitHub\SOA\Projekat 1\gateway service\gateway service\gateway service\obj\Debug\net6.0\ref\gateway service.dll
+C:\Users\Ekonomski\Documents\GitHub\SOA\Projekat 1\gateway service\gateway service\gateway service\bin\Debug\net6.0\Json.Net.dll
+C:\Users\Ekonomski\Documents\GitHub\SOA\Projekat 1\gateway service\gateway service\gateway service\bin\Debug\net6.0\Newtonsoft.Json.dll
