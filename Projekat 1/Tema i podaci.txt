@@ -1,4 +1,4 @@
 Tema: Vreme krugova u Formuli 1 i vremenski uslovi kada su postavljeni
 
-Podaci: https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020
-	https://www.visualcrossing.com/weather-api
+Podaci: https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020 //dataset je modifikovan kako bi odgovarao zahtevima projekta
+	https://www.visualcrossing.com/weather-api 
