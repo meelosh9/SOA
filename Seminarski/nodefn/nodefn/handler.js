@@ -2,9 +2,9 @@
 const SHA256  = require("crypto-js/sha256");
 module.exports = async (event, context) => {
 
-  let input = event.body.input
+  let input = JSON.stringify(event.body.input)
   const result = {
-        'hash':SHA256(JSON.stringify(input)).toString(),
+        'hash':SHA256(input).toString(),
         'in':input
   }
 
