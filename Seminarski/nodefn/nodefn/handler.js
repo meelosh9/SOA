@@ -1,11 +1,9 @@
 'use strict'
 const SHA256  = require("crypto-js/sha256");
 module.exports = async (event, context) => {
-  let body =   JSON.stringify(event.body)
-  let hash = await SHA256(body) 
   const result = {
-        'Before hashing': body,
-        'After hashing': hash
+        'body': JSON.stringify(event.body) + SHA256(JSON.stringify(event.body)),
+    
   }
 
   return context
